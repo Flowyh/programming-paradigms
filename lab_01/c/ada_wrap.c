@@ -1,0 +1,2 @@
+void adainit() {};
+void adafinal() {};
